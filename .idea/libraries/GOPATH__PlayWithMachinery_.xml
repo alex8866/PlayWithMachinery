@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;PlayWithMachinery&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../pg779" />
+      <root url="file://$PROJECT_DIR$/../../../git.meiqia.com" />
+      <root url="file://$PROJECT_DIR$/../../../TestReadPerm" />
+      <root url="file://$PROJECT_DIR$/../../../TestORM" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golangtest" />
+      <root url="file://$PROJECT_DIR$/../../../badger" />
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../req" />
+      <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../Show" />
+      <root url="file://$PROJECT_DIR$/../../../tgi" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../pg779" />
+      <root url="file://$PROJECT_DIR$/../../../git.meiqia.com" />
+      <root url="file://$PROJECT_DIR$/../../../TestReadPerm" />
+      <root url="file://$PROJECT_DIR$/../../../TestORM" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golangtest" />
+      <root url="file://$PROJECT_DIR$/../../../badger" />
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../req" />
+      <root url="file://$PROJECT_DIR$/../../../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../../Show" />
+      <root url="file://$PROJECT_DIR$/../../../tgi" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
